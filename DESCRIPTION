@@ -1,0 +1,12 @@
+Package: montyhall
+Title: Play the Monty Hall Game
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ginger", "Cates", , "gcates12@asu.edu", role = c("aut", "cre"))
+Description: This package simulates playing the Monty Hall Game to determine whether it is optimal to stay or 
+#'	switch when given the option to switch. 
+Depends: dplyr
+License: use_mit_license()
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
